@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\DSproject\Source.cpp(66,26): warning C4101: 'zed': unreferenced local variable
+  DSproject.vcxproj -> D:\DSproject\Debug\DSproject.exe
